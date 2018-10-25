@@ -6,4 +6,6 @@ Search and Rescue drone framework
  - can we build something that “sails” through air?
  - would adding hydrogen “bladders” help?
  - according to my kid, drones should be bright colors. Preferably orange “because nothing in nature is bright orange. Except oranges.” :)
- - and naturally, there is already a whole community out there: https://youtu.be/13HVCKdPPng
+ - and naturally, there is already a whole community out there: 
+     - https://youtu.be/13HVCKdPPng
+     - https://www.rcgroups.com/forums/showthread.php?2878361-What-is-the-best-Flying-wing
