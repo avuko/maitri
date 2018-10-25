@@ -5,4 +5,5 @@ Search and Rescue drone framework
  - glider principle (lower power req)
  - can we build something that “sails” through air?
  - would adding hydrogen “bladders” help?
- - according to my kid, drones should be bright colors. preferably orange. :)
+ - according to my kid, drones should be bright colors. Preferably orange “because nothing in nature is bright orange. Except oranges.” :)
+ - and naturally, there is already a whole community out there: https://youtu.be/13HVCKdPPng
