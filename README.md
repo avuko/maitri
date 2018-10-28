@@ -10,3 +10,4 @@ Search and Rescue drone framework
  - and naturally, there is already a whole community out there: 
      - https://youtu.be/13HVCKdPPng
      - https://www.rcgroups.com/forums/showthread.php?2878361-What-is-the-best-Flying-wing
+     - https://youtu.be/aSD69jdi2CE
